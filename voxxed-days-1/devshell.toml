@@ -1,0 +1,35 @@
+[[commands]]
+name = "build-prod"
+command = "echo 'Building Voxxed Days 1 project for Production environment'"
+help = "Builds Voxxed Days 1 Project for Production environment"
+category = "prod"
+
+[[commands]]
+name = "deploy-prod"
+command = "echo 'Deploying Voxxed Days 1 project for Production environment'"
+help = "Builds Voxxed Days 1 Project for Production environment"
+category = "prod"
+
+[[commands]]
+name = "build-local"
+command = "echo 'Building Voxxed Days 1 project for Local Dev environment'"
+help = "Builds Voxxed Days 1 Project for Local Dev environment"
+category = "dev"
+
+[[commands]]
+name = "deploy-local"
+command = "echo 'Deploying Voxxed Days 1 project to Local Dev Environment'"
+help = "Deploys Voxxed Days 1 Project for Local Dev environment"
+category = "dev"
+
+[[commands]]
+name = "build-stage"
+command = "echo 'Building Voxxed Days 1 project for Staging dev environment'"
+help = "Builds Voxxed Days 1 Project for Staging environment"
+category = "staging"
+
+[[commands]]
+name = "deploy-stage"
+command = "echo 'Deploying Voxxed Days 1 project to Staging environment'"
+help = "Deploys Voxxed Days 1 Project for Staging environment"
+category = "staging"
